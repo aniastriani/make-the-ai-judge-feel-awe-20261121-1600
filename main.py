@@ -12,8 +12,8 @@ import os
 TEXT = (
     "Somewhere above the clouds, starlight that set out before you were "
     "born is still on its way. It has crossed a thousand years of dark "
-    "without hurrying, and tonight it arrives, quiet as dust on a "
-    "windowsill. The sky has been patient this long. It can wait for you."
+    "without hurrying, and tonight it arrives, quiet as dust settling "
+    "on a windowsill. The sky has been patient this long. It can wait for you."
 )
 
 MIN_CHARS = 1
